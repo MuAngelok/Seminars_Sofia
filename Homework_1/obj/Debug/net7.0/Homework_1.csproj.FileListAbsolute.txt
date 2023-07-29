@@ -1,0 +1,15 @@
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\bin\Debug\net7.0\Homework_1.exe
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\bin\Debug\net7.0\Homework_1.deps.json
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\bin\Debug\net7.0\Homework_1.runtimeconfig.json
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\bin\Debug\net7.0\Homework_1.dll
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\bin\Debug\net7.0\Homework_1.pdb
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.csproj.AssemblyReference.cache
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.AssemblyInfoInputs.cache
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.AssemblyInfo.cs
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.csproj.CoreCompileInputs.cache
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.dll
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\refint\Homework_1.dll
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.pdb
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\Homework_1.genruntimeconfig.cache
+C:\Users\Dns Huawei\Desktop\Seminars Sofia\Homework_1\obj\Debug\net7.0\ref\Homework_1.dll

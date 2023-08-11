@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dns Huawei\\Desktop\\Seminars Sofia\\Homework_3\\Homework_3.csproj": {}
+    "C:\\Users\\Dns Huawei\\Desktop\\Seminars_Sofia\\Homework_3\\Homework_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dns Huawei\\Desktop\\Seminars Sofia\\Homework_3\\Homework_3.csproj": {
+    "C:\\Users\\Dns Huawei\\Desktop\\Seminars_Sofia\\Homework_3\\Homework_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dns Huawei\\Desktop\\Seminars Sofia\\Homework_3\\Homework_3.csproj",
+        "projectUniqueName": "C:\\Users\\Dns Huawei\\Desktop\\Seminars_Sofia\\Homework_3\\Homework_3.csproj",
         "projectName": "Homework_3",
-        "projectPath": "C:\\Users\\Dns Huawei\\Desktop\\Seminars Sofia\\Homework_3\\Homework_3.csproj",
+        "projectPath": "C:\\Users\\Dns Huawei\\Desktop\\Seminars_Sofia\\Homework_3\\Homework_3.csproj",
         "packagesPath": "C:\\Users\\Dns Huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dns Huawei\\Desktop\\Seminars Sofia\\Homework_3\\obj\\",
+        "outputPath": "C:\\Users\\Dns Huawei\\Desktop\\Seminars_Sofia\\Homework_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dns Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
